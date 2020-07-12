@@ -68,14 +68,20 @@
                             <img class="anhXepHang" src="public/images/anhcasi/ca_si_viet_nam.jpg" />
                         </a>
                     </div>
-                    <div class="nhung_bai_hit_moi">
+                    <div class="homnaynghegi">
+                      <a href="https://zingmp3.vn/album/Nhac-Viet-Hom-Nay-Nghe-Gi-/ZWZCOU98.html">
                         <img class="anhXepHang" src="public/images/anhcasi/homnaynghegi.jpg" />
+                      </a>
                     </div>
-                    <div class="nhac_phim">
+                    <div class="love">
+                      <a href="https://zingmp3.vn/album/Radio-Music-For-Love-Various-Artists/ZEFWAIU6.html">
                         <img class="anhXepHang" src="public/images/anhcasi/love.jpg" />
+                      </a>
                     </div>
-                    <div class="nhac_hot">
+                    <div class="caphe">
+                      <a href="https://zingmp3.vn/hub/Ca-Phe/IWZ9Z09Z.html">
                         <img class="anhXepHang" src="public/images/anhcasi/caphe.jpg" />
+                      </a>
                     </div>
                     <h2> <a class="title_xep_hang" href="bang_xep_hang.php">Bảng xếp hạng</a> </h2>
                         {foreach $xep_hang as $xh}
