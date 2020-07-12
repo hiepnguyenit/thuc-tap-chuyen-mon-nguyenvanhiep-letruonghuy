@@ -1,5 +1,12 @@
-    <footer class="w3-center w3-padding-16">
-  <p>HiepNguyenIT</p>
+    <footer>
+    <div  class="w3-center w3-padding-16 gioithieu">
+    <img src="/project_nhac/public/images/nhac.png" width="30" height="30" alt="">
+    Một sản phẩm của HiepNguyenIT
+    </br>
+    <a href="https://hiepnguyenit.github.io" style="color:White">
+    Giới thiệu •Liên hệ •Quảng cáo •Góp ý •Thỏa thuận sử dụng
+    </a>
+    </div>
 </footer>
     
     <!-- JS Bootstrap -->
