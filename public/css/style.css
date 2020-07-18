@@ -482,6 +482,12 @@ ul.navbar-nav{
     max-height: 133px;
     margin: 20px;
 }
+#tb{
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(1, 13, 17);
+    font-size:20px
+}
 /*end quan ly album*/
 /*trang danh sach ca si*/
 .content_ca_si{
