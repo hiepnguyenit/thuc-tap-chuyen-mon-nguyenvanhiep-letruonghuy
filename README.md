@@ -35,6 +35,9 @@ Lớp: Công nghệ thông tin K58
 - Đăng nhập với quyền admin:
 > Tên tài khoản: admins  
 > Mật khẩu: admin1234
+- Đăng nhập với tài khoản thường:
+> Tên tài khoản: hiepnguyenit  
+> Mật khẩu: admin1234
 - Với chức năng tìm kiếm: tìm kiếm trực tiếp các bài hát đã tồn tại trong cơ sở dữ liệu bằng cách gõ trực tiếp tên bài hát không dấu hoặc có dấu, viết ít nhất 4 ký tự.
 - Với tính năng xếp hạng bằng Google Visualization API, vui lòng nhấn vào chữ BẢNG XẾP HẠNG trên trang chủ.
 - Địa chỉ trang web đã deploy:
