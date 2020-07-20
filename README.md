@@ -9,7 +9,7 @@ Lớp: Công nghệ thông tin K58
 - PHP
 - Smarty
 - Ajax
-- Bootsrap - Responsive Web Design
+- Bootstrap - Responsive Web Design
 - JS
 - CSS
 - ApacheConf
